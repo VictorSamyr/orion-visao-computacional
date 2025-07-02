@@ -29,7 +29,7 @@ Clique no botão abaixo para abrir o notebook sem precisar instalar nada:
 Clone o repositório:
 
 ```bash
-git clone [https://github.com/seu_usuario/nome-do-repo.git](https://github.com/VictorSamyr/orion-visao-computacional.git)
+git clone https://github.com/VictorSamyr/orion-visao-computacional.git
 cd orion-visao-computacional
 pip install -r requirements.txt
 jupyter notebook
